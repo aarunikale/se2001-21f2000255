@@ -1,2 +1,0 @@
-export GITHUB_USERNAME=aarunikale
-export GITHUB_REPOSITORY=se2001-21f2000255
